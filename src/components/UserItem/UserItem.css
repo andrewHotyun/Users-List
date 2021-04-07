@@ -1,0 +1,23 @@
+.user-item-container {
+  margin: 0px 0px 0px 0px;
+  padding: 20px 20px 20px 20px;
+  border: solid gray 1px;
+  cursor: pointer;
+  transition: 0.4s;
+  background: lightgrey;
+}
+.user-item-cell {
+  flex-grow: 1;
+  text-align: center;
+}
+.user-item-container:hover {
+  background-color: darkgrey;
+}
+
+.picContainer {
+  border: 3px solid white;
+  border-radius: 50%;
+  float: left;
+  height: 50px;
+  margin-top: -17px;
+}

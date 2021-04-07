@@ -1,0 +1,19 @@
+thead{
+    background-color: gray;
+    font-weight: bold;
+}
+.user-item-container:hover {
+    background-color: darkgrey;
+}
+.user-item-cell {
+    flex-grow: 1;
+    text-align: center;
+}
+.picContainer{
+    border: 1px solid white;
+    border-radius: 50%;
+    float: left;
+    height: 50px;
+    margin: 2px;
+
+}
